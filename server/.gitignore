@@ -1,0 +1,8 @@
+# MongoDB data directory
+/data/db
+
+# MongoDB log files
+/log
+
+# MongoDB configuration file
+/mongod.conf

@@ -10,7 +10,7 @@ export default function Header() {
           <li>Home</li>
         </Link>
         <Link to={"/add-blog"}>
-          <li>Add Blog</li>
+          <li>Add Entry</li>
         </Link>
       </ul>
     </div>
